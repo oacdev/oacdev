@@ -13,7 +13,8 @@ I build backend systems that work. Recently focused on integrating AI into real-
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-7C3AED?style=for-the-badge&logo=probot&logoColor=white)
 
 **Backend:** PHP 8.x · Laravel · Symfony · REST APIs · MySQL · Redis  
 **AI Integration:** OpenAI API · LLM Agents · Prompt Engineering  
