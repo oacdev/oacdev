@@ -24,7 +24,7 @@ I build backend systems that work. Recently focused on integrating AI into real-
 
 ## Recent experience
 
-🏦 **Backend Developer** — Mortgage tech company (2025)
+🏦 **Backend Developer** — Trioteca (2025)
 - Built AI-powered risk analysis system processing customer communications across multiple channels (calls, email, WhatsApp)
 - Developed LLM agents for attitude detection and customer intent analysis
 - Worked with Laravel Nova for complex admin interfaces
